@@ -1,0 +1,7 @@
+dist
+build
+coverage
+.rpt2_cache
+node_modules
+docs
+tools
