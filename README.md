@@ -1,19 +1,4 @@
-# npm-to-yarn
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[logo]: https://img.shields.io/badge/all_contributors-0-orange.svg 'Number of contributors on All-Contributors'
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-[![npm](https://img.shields.io/npm/v/npm-to-yarn)](https://www.npmjs.com/package/npm-to-yarn)
-[![License](https://img.shields.io/npm/l/npm-to-yarn)](./LICENSE)
-[![CI](https://github.com/nebrelbug/npm-to-yarn/actions/workflows/ci.yml/badge.svg)](https://github.com/nebrelbug/npm-to-yarn/actions/workflows/ci.yml)
-[![Coveralls](https://img.shields.io/coveralls/nebrelbug/npm-to-yarn.svg)](https://coveralls.io/github/nebrelbug/npm-to-yarn)
-
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Dev Dependencies](https://img.shields.io/david/dev/nebrelbug/npm-to-yarn)](https://david-dm.org/nebrelbug/npm-to-yarn?type=dev)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/bengubler)
+# NPM to yarn
 
 **Summary**
 
